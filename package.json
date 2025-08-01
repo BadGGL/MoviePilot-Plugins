@@ -1,0 +1,13 @@
+{
+  "dzdsingnin": {
+    "name": "消息推送",
+    "description": "支持自定义消息推送",
+    "labels": "自动化",
+    "version": "1.0.0",
+    "author": "BadGGL",
+    "level": 2,
+    "v2": true,
+    "history": {
+      "v1.0.0": "首次发布，支持多站点签到，用户自定义配置"
+    }
+  },
